@@ -1,0 +1,11 @@
+# Compiled binary
+/diary
+
+# SQLite database (generated at runtime, seeded from trips.json)
+*.db
+*.db-wal
+*.db-shm
+
+# Local tooling
+/.claude/
+/.playwright-mcp/
